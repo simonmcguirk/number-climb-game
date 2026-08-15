@@ -17,9 +17,9 @@ The app generates a random number and adds or subtracts it from a running total.
 This project was created while following the CodeWithChris iOS Foundations course and is intended as a learning exercise rather than an original app concept.
 
 ## Screenshot
-
 <img
-  src="https://github.com/user-attachments/assets/7436491a-57aa-420a-a063-15de22f71d97"
-  alt="Number Climb Game screenshot"
+  src="https://github.com/user-attachments/assets/b6ba052a-56c8-4ceb-b27d-795abf28232d"
+  alt="Number Climb Game showing the current total and generated number"
   width="300"
 />
+
